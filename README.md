@@ -64,3 +64,17 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_containment/Container_queri
 ##### Rssponsive Without Media Query
 - https://medium.com/@hayavuk/responsive-columns-without-media-queries-1dd92dc0f5e6
 - https://www.sitepoint.com/responsive-css-layout-grids-without-media-queries
+##### Fancy Borders
+- https://9elements.github.io/fancy-border-radius
+- https://freefrontend.com/css-border-examples
+- https://css-tricks.com/css-borders-using-masks
+##### Box shadow
+- https://getcssscan.com/css-box-shadow-examples
+- https://www.cssmatic.com/box-shadow
+##### CSS Mask
+- https://bennettfeely.com/clippy
+- https://css-generators.com
+- https://css-generators.com/wavy-shapes
+- https://cssgradient.io/
+##### CSS Validator
+- https://jigsaw.w3.org/css-validator
